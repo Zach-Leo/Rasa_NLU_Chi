@@ -114,6 +114,126 @@
         ]
       },
       {
+        "text": "我手机不工作了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 1,
+            "end": 3,
+            "value": "手机",
+            "entity": "device"
+          }
+        ]
+      },
+      {
+        "text": "我手机开不了机了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 1,
+            "end": 3,
+            "value": "手机",
+            "entity": "device"
+          }
+        ]
+      },
+      {
+        "text": "我电脑开不了机了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 1,
+            "end": 3,
+            "value": "电脑",
+            "entity": "device"
+          }
+        ]
+      },
+      {
+        "text": "我平板电脑开不了机了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 1,
+            "end": 5,
+            "value": "平板电脑",
+            "entity": "device"
+          }
+        ]
+      },
+      {
+        "text": "我电脑坏了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 1,
+            "end": 3,
+            "value": "电脑",
+            "entity": "device"
+          }
+        ]
+      },
+      {
+        "text": "手机崩溃了并且不能正常工作了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 2,
+            "value": "手机",
+            "entity": "device"
+          }
+        ]
+      },
+      {
+        "text": "电脑崩溃了并且不能正常工作了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 2,
+            "value": "电脑",
+            "entity": "device"
+          }
+        ]
+      },
+      {
+        "text": "我电脑自动关机了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 1,
+            "end": 3,
+            "value": "电脑",
+            "entity": "device"
+          }
+        ]
+      },
+      {
+        "text": "我电脑自动重启了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 1,
+            "end": 3,
+            "value": "电脑",
+            "entity": "device"
+          }
+        ]
+      },
+      {
+        "text": "我手机开不了机了",
+        "intent": "device_failure",
+        "entities": [
+          {
+            "start": 1,
+            "end": 3,
+            "value": "手机",
+            "entity": "device"
+          }
+        ]
+      },
+      {
         "text": "找个吃拉面的店",
         "intent": "restaurant_search",
         "entities": [
